@@ -1,0 +1,40 @@
+James, Lebron
+Cleveland Cavaliers
+18,000,000
+30
+4 MVPs
+Bautista, Jose
+Toronto Blue Jays
+18,000,000
+33
+52 home runs
+Kessel, Phil
+Toronto Maple Leafs
+8,000,000
+26
+82 points
+Encarnacion, Edwin
+Toronto Blue Jays
+9,000,000
+32
+41 home runs
+Brady, Tom
+New England Patriots
+9,000,000
+37
+3 Superbowls
+Rodgers, Aaron
+Green Bay Packers
+20,000,000
+30
+Superbowl 46
+Crosby, Sidney
+Pittsburgh Penguins
+8,700,000
+27
+Stanley Cup 2009
+Braun, Ryan
+Milwaukee Brewers
+11,000,000
+30
+2011 NL MVP
